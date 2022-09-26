@@ -2,5 +2,6 @@
 """
 Plot dummy
 ==========
+Yes
 """
 print("HELLO")
